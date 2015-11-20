@@ -13,7 +13,7 @@ Initial settings:-
   3.Add nova key pair and set permissions(chmod 600 file – owner can read and write)
   4.Edit the config file and provide all inputs
   
-Execution:-
+Usage:-
   1.python test.py
   2.Script has setup and teardown functions which cleans up the whole setup
   3.To be run on a fresh setup
